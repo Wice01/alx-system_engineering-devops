@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files (starting with .)
+Create a script that switches the current user to the user 
