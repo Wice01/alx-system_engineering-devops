@@ -1,1 +1,1 @@
-script that prints the absolute path name of the current workin
+Display current directory contents, including hidden files (starting with .)
