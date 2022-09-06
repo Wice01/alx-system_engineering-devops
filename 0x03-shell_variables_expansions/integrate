@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'script that counts the number of directories in the PATH'
+git commit -m 'script that lists environment variables'
 git push
