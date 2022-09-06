@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'script that prints every other line from the input, starting with the first line'
+git commit -m 'script that adds the two numbers stored in the environment variables WATER and STIR and prints the result'
 git push
